@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882702479371",
+    "firebase_url": "https://english-iptv-m3u-default-rtdb.firebaseio.com",
+    "project_id": "english-iptv-m3u",
+    "storage_bucket": "english-iptv-m3u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882702479371:android:5a3d55a87b24d776b5d70e",
+        "android_client_info": {
+          "package_name": "com.bitlinks.english.iptv.m3ulist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882702479371-2g3maqdsosf7v4j77l7okvqmimsfjlib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6LZ2gB73Unbfc1bGqX-qUYeR36W_Rehw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882702479371-2g3maqdsosf7v4j77l7okvqmimsfjlib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
